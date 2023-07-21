@@ -1,8 +1,6 @@
 # Racing-Game-Unity
 
 <b> It's a racing game made in Unity Version 17 </b>
-
-![](overview1.png)
 <br>
 ![](overview2.png)
 
